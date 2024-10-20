@@ -23,4 +23,6 @@ print('"You\'re going to die tommowrow lord bolton, Sleep well" said Sansa stark
 #############################################################################################################################################################################################################
 print('hello world')
 
-
+word='pineapple'
+new_word=word.strip('pine')
+print(new_word)
